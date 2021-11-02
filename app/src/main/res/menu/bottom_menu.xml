@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="To fragment 2"
+        android:id="@+id/itemFragment3toFragment2"
+        android:icon="@drawable/motion"
+        />
+    <item android:title="To fragment 4"
+        android:id="@+id/itemFragment3toFragment4"
+        android:icon="@drawable/motion"
+        />
+</menu>
